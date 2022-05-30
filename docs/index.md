@@ -37,4 +37,4 @@ Sem mais delongas abaixo a lista de tópicos do projeto.
 
 ## Índice
 
-- [ ] Vamos verificar e instalar os requisitos mínimos do sistema;
+- [x] Vamos verificar e instalar os [requisitos mínimos do sistema](./requisitos-do-sistema.md);

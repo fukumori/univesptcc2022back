@@ -1,11 +1,11 @@
 # Requisitos do sistema
 
-- [x] Linux like
-- [x] IDE
-- [x] docker / docker-compose
-- [x] curl
-- [x] git
-- [x] github
+- [x] [Linux like](#linux-like)
+- [x] [IDE](#ide)
+- [x] [docker / docker-compose](#docker-e-docker-compose)
+- [x] [curl](#curl)
+- [x] [git](#git)
+- [x] [github](#github)
 
 ## Linux like
 
