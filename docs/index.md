@@ -38,3 +38,4 @@ Sem mais delongas abaixo a lista de tópicos do projeto.
 ## Índice
 
 - [x] Vamos verificar e instalar os [requisitos mínimos do sistema](./requisitos-do-sistema.md);
+- [ ] Realizar a instalação do projeto em Laravel;
